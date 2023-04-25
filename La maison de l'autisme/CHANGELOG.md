@@ -95,3 +95,73 @@
 - Review ([#224](https://github.com/SocialGouv/mda/pull/224))
 - Review ([#222](https://github.com/SocialGouv/mda/pull/222))
 - Review ([#212](https://github.com/SocialGouv/mda/pull/212))
+
+# 2023 April
+
+### Week 14
+
+#### 2023-04-03 Monday
+
+- Feature: revert mda events ([#233](https://github.com/SocialGouv/mda/pull/233))
+- Fix: meilisearch replicas ([#231](https://github.com/SocialGouv/mda/pull/231)) & ([#234](https://github.com/SocialGouv/mda/pull/234))
+- Chore: kontinuous spring cleanup ([#235](https://github.com/SocialGouv/mda/pull/235))
+
+#### 2023-04-06 Thursday
+
+- Feature: modèles de courrier dynamisation ([#243](https://github.com/SocialGouv/mda/pull/243)) & ([#244](https://github.com/SocialGouv/mda/pull/244))
+- Feature: dynamisation page intermédiaire mon parcours ([#245](https://github.com/SocialGouv/mda/pull/245))
+- Fix: La page de recherche déclenche des applications error en cas de refresh ([#249](https://github.com/SocialGouv/mda/pull/249)) & ([#250](https://github.com/SocialGouv/mda/pull/250))
+- Chore: update dependencies ([#241](https://github.com/SocialGouv/mda/pull/241))
+
+#### 2023-04-07 Friday
+
+- Feature: home v2 ([#251](https://github.com/SocialGouv/mda/pull/251))
+- Chore: Deprecate home v1 ([#255](https://github.com/SocialGouv/mda/pull/255))
+- Review ([#253](https://github.com/SocialGouv/mda/pull/253))
+- Review ([#254](https://github.com/SocialGouv/mda/pull/254))
+
+### Week 15
+
+#### 2023-04-11 Tuesday
+
+- Feature: replace tarteaucitron by dsfr ([#268](https://github.com/SocialGouv/mda/pull/268))
+- Chore: update dependencies ([#261](https://github.com/SocialGouv/mda/pull/261))
+- Chore: cleanup home v1 ([#262](https://github.com/SocialGouv/mda/pull/262)) & ([#263](https://github.com/SocialGouv/mda/pull/263))
+- Refactor: better typings ([#264](https://github.com/SocialGouv/mda/pull/264))
+
+#### 2023-04-13 Thursday
+
+- Feature: Dynamisation bandeau réseaux sociaux ([#276](https://github.com/SocialGouv/mda/pull/276))
+- Feature: DSFR pictogrammes disponibles sur la page d'accueil ([#279](https://github.com/SocialGouv/mda/pull/279))
+- Fix: back office documentation ([#277](https://github.com/SocialGouv/mda/pull/277))
+- Review ([#274](https://github.com/SocialGouv/mda/pull/274))
+
+### Week 16
+
+#### 2023-04-17 Monday
+
+- Feature: change feedback email ([#292](https://github.com/SocialGouv/mda/pull/292))
+- Fix: sonar easy bugs and code smells for dashlord ([#290](https://github.com/SocialGouv/mda/pull/290))
+- Fix: do not send seo headers on each environment ([#287](https://github.com/SocialGouv/mda/pull/287))
+- Fix: matomo track navigation ([#286](https://github.com/SocialGouv/mda/pull/286))
+- Chore: update dependencies ([#284](https://github.com/SocialGouv/mda/pull/284))
+
+#### 2023-04-18 Tuesday
+
+- Feature: add canonical urls for SEO ([#294](https://github.com/SocialGouv/mda/pull/294))
+- Feature: add opengraph content for SEO ([#297](https://github.com/SocialGouv/mda/pull/297))
+- Fix: sonar warnings ([#295](https://github.com/SocialGouv/mda/pull/295))
+- Chore: update dependencies ([#293](https://github.com/SocialGouv/mda/pull/293))
+
+### Week 17
+
+#### 2023-04-24 Monday
+
+- Feature: Add home carousel ([#304](https://github.com/SocialGouv/mda/pull/304)) & ([#306](https://github.com/SocialGouv/mda/pull/306))
+- Fix: SEO canonical urls bug ([69a0ea](https://github.com/SocialGouv/mda/commit/69a0ea8cae2e2da9476f4f9ce83f121bac10385f))
+- Chore: update dependencies ([#302](https://github.com/SocialGouv/mda/pull/302))
+
+#### 2023-04-27 Thursday
+
+- Feature: Theme switcher ([#247](https://github.com/SocialGouv/mda/pull/247))
+- Feature: Search config ([#308](https://github.com/SocialGouv/mda/pull/308))
