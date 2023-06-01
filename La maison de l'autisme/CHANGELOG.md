@@ -165,3 +165,43 @@
 
 - Feature: Theme switcher ([#247](https://github.com/SocialGouv/mda/pull/247))
 - Feature: Search config ([#308](https://github.com/SocialGouv/mda/pull/308))
+
+# 2023 May
+
+### Week 18
+
+#### 2023-05-02 Tuesday
+
+- Chore: update dependencies ([#313](https://github.com/SocialGouv/mda/pull/313))
+
+### Week 19
+
+#### 2023-05-09 Tuesday
+
+- Feature: diagnostic plugin ([#217](https://github.com/SocialGouv/mda/pull/217))
+- Feature: diagnostic frontend ([#319](https://github.com/SocialGouv/mda/pull/319))
+- Chore: update dependencies ([#320](https://github.com/SocialGouv/mda/pull/320))
+
+### Week 20
+
+#### 2023-05-15 Monday
+
+- Feature: diagnostic info position ([#328](https://github.com/SocialGouv/mda/pull/328))
+- Fix: memory leak ([#327](https://github.com/SocialGouv/mda/pull/327))
+
+### Week 21
+
+#### 2023-05-22 Monday
+
+- Documentation: update readme + architecture ([#339](https://github.com/SocialGouv/mda/pull/339))
+- Fix: memory ([#338](https://github.com/SocialGouv/mda/pull/338))
+- Chore: update dependencies ([#333](https://github.com/SocialGouv/mda/pull/333))
+- Feature: reactivate events ([0acb7af](https://github.com/SocialGouv/mda/commit/0acb7af9e9a4934577d9117aa79b7c871f8285e4))
+
+### Week 22
+
+#### 2023-05-30 Tuesday
+
+- Feature: SEO update opengraph + add json-ld ([#346](https://github.com/SocialGouv/mda/pull/346))
+- Fix: 404 on dashlord ([92c225a](https://github.com/SocialGouv/mda/commit/92c225ac6e8fbd9e1fc6032ea2f27c8a11a349b3))
+- Chore: update dependencies ([#345](https://github.com/SocialGouv/mda/pull/345))
