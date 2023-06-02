@@ -58,3 +58,16 @@
 
 - Fix: Vigilance meteo ([#71](https://github.com/SocialGouv/recosante/pull/71))
 - Fix: Semantic release ([debc9db](https://github.com/SocialGouv/recosante/commit/debc9dbf8701ecbaae46a2edf862556ccdc5bffe))
+
+# 2023 June
+
+### Week 22
+
+#### 2023-06-01 Thursday
+
+- Chore: update dependencies ([#83](https://github.com/SocialGouv/recosante/pull/83))
+
+#### 2023-06-02 Friday
+
+- Fix: modal tabbable issue ([#da993a](https://github.com/SocialGouv/recosante/commit/da993a0cde5e34f44a308b7938410af04306ac98))
+- Chore: treat renovate PR ([#84](https://github.com/SocialGouv/recosante/pull/84))
