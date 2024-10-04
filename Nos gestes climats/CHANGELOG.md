@@ -177,3 +177,15 @@ Offsite
 - Review ([#730](https://github.com/incubateur-ademe/nosgestesclimat-site-nextjs/pull/730))
 - Review ([#731](https://github.com/incubateur-ademe/nosgestesclimat-site-nextjs/pull/731))
 - Review ([#174](https://github.com/incubateur-ademe/nosgestesclimat-server/pull/174))
+
+# 2024 October
+
+#### 2024-10-01 Tuesday
+
+- Feat: groups simulations fetch logic (NGC-1231) ([#176](https://github.com/incubateur-ademe/nosgestesclimat-server/pull/176))
+- Release ([#177](https://github.com/incubateur-ademe/nosgestesclimat-server/pull/177))
+- Review ([#733](https://github.com/incubateur-ademe/nosgestesclimat-site-nextjs/pull/733))
+
+#### 2024-10-02 Wednesday
+
+- Review ([#2458](https://github.com/incubateur-ademe/nosgestesclimat/pull/2458))
