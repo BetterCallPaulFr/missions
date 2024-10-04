@@ -177,3 +177,89 @@ Offsite
 - Review ([#730](https://github.com/incubateur-ademe/nosgestesclimat-site-nextjs/pull/730))
 - Review ([#731](https://github.com/incubateur-ademe/nosgestesclimat-site-nextjs/pull/731))
 - Review ([#174](https://github.com/incubateur-ademe/nosgestesclimat-server/pull/174))
+
+# 2024 October
+
+#### 2024-10-01 Tuesday
+
+- Feat: groups simulations fetch logic (NGC-1231) ([#176](https://github.com/incubateur-ademe/nosgestesclimat-server/pull/176))
+- Release ([#177](https://github.com/incubateur-ademe/nosgestesclimat-server/pull/177))
+- Review ([#733](https://github.com/incubateur-ademe/nosgestesclimat-site-nextjs/pull/733))
+
+#### 2024-10-02 Wednesday
+
+- Review ([#2458](https://github.com/incubateur-ademe/nosgestesclimat/pull/2458))
+
+### Week 41
+
+#### 2024-10-07 Monday
+
+- Feat: migrate simulations to postgre (NGC-1242, NGC-1235) [#178](https://github.com/incubateur-ademe/nosgestesclimat-server/pull/178)
+- Review ([#737](https://github.com/incubateur-ademe/nosgestesclimat-site-nextjs/pull/737))
+- Review ([#740](https://github.com/incubateur-ademe/nosgestesclimat-site-nextjs/pull/740))
+
+#### 2024-10-08 Tuesday
+
+- Review: ([#745](https://github.com/incubateur-ademe/nosgestesclimat-site-nextjs/pull/745))
+
+#### 2024-10-09 Wednesday
+
+- Feat: agir export situation use-case (NGC-1294) [#179](https://github.com/incubateur-ademe/nosgestesclimat-server/pull/179)
+- Feat: sync brevo contact when needed (NGC-1274) [#180](https://github.com/incubateur-ademe/nosgestesclimat-server/pull/180)
+- Chore: improve tests to avoid flakyness [#181](https://github.com/incubateur-ademe/nosgestesclimat-server/pull/181)
+- Review ([#750](https://github.com/incubateur-ademe/nosgestesclimat-site-nextjs/pull/750))
+- Review ([#747](https://github.com/incubateur-ademe/nosgestesclimat-site-nextjs/pull/747))
+
+### Week 42
+
+#### 2024-10-14 Monday
+
+- Review ([#754](https://github.com/incubateur-ademe/nosgestesclimat-site-nextjs/pull/754))
+- Review ([#755](https://github.com/incubateur-ademe/nosgestesclimat-site-nextjs/pull/755))
+
+#### 2024-10-15 Tuesday
+
+- CMS
+
+#### 2024-10-16 Wednesday
+
+- Fix: simulations various fixes (NGC-1235) [#183](https://github.com/incubateur-ademe/nosgestesclimat-server/pull/183)
+- Refactor: remove send email route (NGC-922) [#184](https://github.com/incubateur-ademe/nosgestesclimat-server/pull/184)
+- Release ([#182](https://github.com/incubateur-ademe/nosgestesclimat-server/pull/182))
+- Review ([#757](https://github.com/incubateur-ademe/nosgestesclimat-site-nextjs/pull/757))
+- Review ([#758](https://github.com/incubateur-ademe/nosgestesclimat-site-nextjs/pull/758))
+
+### Week 43
+
+#### 2024-10-21 Monday
+
+- Feat: device change (NGC-1310) [#186](https://github.com/incubateur-ademe/nosgestesclimat-server/pull/186)
+- Fix: add non regression tests on authenticationmiddleware [#185](https://github.com/incubateur-ademe/nosgestesclimat-server/pull/185)
+
+#### 2024-10-22 Tuesday
+
+- Release ([#187](https://github.com/incubateur-ademe/nosgestesclimat-server/pull/187))
+
+#### 2024-10-23 Wednesday
+
+- Fix: various replication issues (NGC-1309) [#188](https://github.com/incubateur-ademe/nosgestesclimat-server/pull/188)
+- Review ([#759](https://github.com/incubateur-ademe/nosgestesclimat-site-nextjs/pull/759))
+
+### Week 44
+
+#### 2024-10-28 Monday
+
+- Refactor: ngc schema [#193](https://github.com/incubateur-ademe/nosgestesclimat-server/pull/193)
+- Review ([#764](https://github.com/incubateur-ademe/nosgestesclimat-site-nextjs/pull/764))
+
+#### 2024-10-29 Tuesday
+
+- Release ([#196](https://github.com/incubateur-ademe/nosgestesclimat-server/pull/196))
+- Refactor: prisma transactions [#195](https://github.com/incubateur-ademe/nosgestesclimat-server/pull/195)
+- Feat: grant access to ngc schema [#194](https://github.com/incubateur-ademe/nosgestesclimat-server/pull/194)
+- Feat: grant access to cms schema [#1](https://github.com/incubateur-ademe/nosgestesclimat-cms/pull/1)
+- Review ([#2](https://github.com/incubateur-ademe/nosgestesclimat-cms/pull/2))
+
+#### 2024-10-30 Wednesday
+
+- Public server repo
