@@ -263,3 +263,63 @@ Offsite
 #### 2024-10-30 Wednesday
 
 - Public server repo
+
+# 2024 November
+
+### Week 45
+
+#### 2024-11-04 Monday
+
+- Fix: simulations import script ([#197](https://github.com/incubateur-ademe/nosgestesclimat-server/pull/197))
+- Review ([#765](https://github.com/incubateur-ademe/nosgestesclimat-site-nextjs/pull/765))
+
+#### 2024-11-05 Tuesday
+
+- Review ([#767](https://github.com/incubateur-ademe/nosgestesclimat-site-nextjs/pull/767))
+- Review ([#769](https://github.com/incubateur-ademe/nosgestesclimat-site-nextjs/pull/769))
+
+#### 2024-11-06 Wednesday
+
+- Refactor: fix model typings (NGC-1336) ([#2466](https://github.com/incubateur-ademe/nosgestesclimat/pull/2466))
+- Feat: API changes for the frontend (NGC-1336) ([#198](https://github.com/incubateur-ademe/nosgestesclimat-server/pull/198))
+
+### Week 46
+
+#### 2024-11-12 Tuesday
+
+- Release: ([#2467](https://github.com/incubateur-ademe/nosgestesclimat/pull/2467))
+
+#### 2024-11-12 Wednesday
+
+- QA on API changes + scaleway setup
+
+### Week 47
+
+#### 2024-11-18 Monday
+
+- Chore: site lint ([#771](https://github.com/incubateur-ademe/nosgestesclimat-site-nextjs/pull/771))
+- Feat: store CMS images on scaleway (NGC-1349) ([#3](https://github.com/incubateur-ademe/nosgestesclimat-cms/pull/3))
+
+#### 2024-11-19 Tuesday
+
+- Review: ([#765](https://github.com/incubateur-ademe/nosgestesclimat-site-nextjs/pull/765))
+
+#### 2024-11-20 Wednesday
+
+- Review: ([#777](https://github.com/incubateur-ademe/nosgestesclimat-site-nextjs/pull/777))
+- Review: ([#767](https://github.com/incubateur-ademe/nosgestesclimat-site-nextjs/pull/767))
+
+### Week 48
+
+#### 2024-11-25 Monday
+
+Offsite
+
+#### 2024-11-26 Tuesday
+
+Offsite
+
+#### 2024-11-27 Wednesday
+
+- Feat: consume new API (NGC-1330) ([#780](https://github.com/incubateur-ademe/nosgestesclimat-site-nextjs/pull/780))
+- Review: ([#778](https://github.com/incubateur-ademe/nosgestesclimat-site-nextjs/pull/778))
