@@ -323,3 +323,60 @@ Offsite
 
 - Feat: consume new API ([#780](https://github.com/incubateur-ademe/nosgestesclimat-site-nextjs/pull/780))
 - Review: ([#778](https://github.com/incubateur-ademe/nosgestesclimat-site-nextjs/pull/778))
+
+# 2024 December
+
+### Week 49
+
+#### 2024-12-02 Monday
+
+- Fix: organisation administrator email change ([#199](https://github.com/incubateur-ademe/nosgestesclimat-server/pull/199))
+- Review: ([#776](https://github.com/incubateur-ademe/nosgestesclimat-site-nextjs/pull/776))
+- Review: ([#779](https://github.com/incubateur-ademe/nosgestesclimat-site-nextjs/pull/779))
+
+#### 2024-12-03 Tuesday
+
+- Release: ([#200](https://github.com/incubateur-ademe/nosgestesclimat-server/pull/200))
+- Review: ([#781](https://github.com/incubateur-ademe/nosgestesclimat-site-nextjs/pull/781))
+- Review: ([#2469](https://github.com/incubateur-ademe/nosgestesclimat/pull/2469))
+
+#### 2024-12-04 Wednesday
+
+- Release: ([#201](https://github.com/incubateur-ademe/nosgestesclimat-server/pull/201))
+- Review: ([#784](https://github.com/incubateur-ademe/nosgestesclimat-site-nextjs/pull/784))
+- Review: ([#786](https://github.com/incubateur-ademe/nosgestesclimat-site-nextjs/pull/786))
+
+### Week 50
+
+#### 2024-12-09 Monday
+
+- Review: ([#754](https://github.com/incubateur-ademe/nosgestesclimat-site-nextjs/pull/754))
+- Review: ([#782](https://github.com/incubateur-ademe/nosgestesclimat-site-nextjs/pull/782))
+
+#### 2024-12-10 Tuesday
+
+- Feat: CMS first resources ([#2](https://github.com/incubateur-ademe/nosgestesclimat-cms/pull/2))
+
+#### 2024-12-11 Wednesday
+
+- Fix: sync users data ([#202](https://github.com/incubateur-ademe/nosgestesclimat-server/pull/202))
+- Fix: change email logic ([#203](https://github.com/incubateur-ademe/nosgestesclimat-server/pull/203))
+- Fix: ask the backend to send email or not ([#788](https://github.com/incubateur-ademe/nosgestesclimat-site-nextjs/pull/788))
+
+### Week 51
+
+#### 2024-12-16 Monday
+
+- Fix: poll additional questions ([#791](https://github.com/incubateur-ademe/nosgestesclimat-site-nextjs/pull/791))
+- Feat: CMS extra fields ([#4](https://github.com/incubateur-ademe/nosgestesclimat-cms/pull/4))
+- Review: ([#204](https://github.com/incubateur-ademe/nosgestesclimat-server/pull/204))
+
+#### 2024-12-17 Tuesday
+
+- Release: ([#205](https://github.com/incubateur-ademe/nosgestesclimat-server/pull/205))
+
+#### 2024-12-18 Wednesday
+
+- Refactor: newsletters routes ([#206](https://github.com/incubateur-ademe/nosgestesclimat-server/pull/206))
+- Feat: get rid of netlify ([#2474](https://github.com/incubateur-ademe/nosgestesclimat/pull/2474))
+- Feat: CMS improvements ([#5](https://github.com/incubateur-ademe/nosgestesclimat-cms/pull/5))
