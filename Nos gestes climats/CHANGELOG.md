@@ -413,3 +413,87 @@ Offsite
 - Refactor: Prisma enums ([#211](https://github.com/incubateur-ademe/nosgestesclimat-server/pull/211))
 - Review: ([#800](https://github.com/incubateur-ademe/nosgestesclimat-site-nextjs/pull/800))
 - Review: ([#212](https://github.com/incubateur-ademe/nosgestesclimat-server/pull/212))
+
+# 2025 January
+
+### Week 02
+
+#### 2025-01-06 Monday
+
+- Refactor: remove useless migrations ([#214](https://github.com/incubateur-ademe/nosgestesclimat-server/pull/214))
+- Feat: deploy master model on scaleway ([#2485](https://github.com/incubateur-ademe/nosgestesclimat/pull/2485))
+- Feat: deploy master model on scaleway ([#2487](https://github.com/incubateur-ademe/nosgestesclimat/pull/2487))
+- Release: ([#215](https://github.com/incubateur-ademe/nosgestesclimat-server/pull/215))
+
+#### 2025-01-07 Tuesday
+
+- Feat: email whitelist crud (NGC-1504) ([#216](https://github.com/incubateur-ademe/nosgestesclimat-server/pull/216))
+- Review: ([#2488](https://github.com/incubateur-ademe/nosgestesclimat/pull/2488))
+
+#### 2025-01-08 Wednesday
+
+- Chore: bump model version (NGC-1525) ([#219](https://github.com/incubateur-ademe/nosgestesclimat-server/pull/219))
+- Feat: mapping files crud (NGC-1505) ([#220](https://github.com/incubateur-ademe/nosgestesclimat-server/pull/220))
+- Fix: public poll simulations ([#217](https://github.com/incubateur-ademe/nosgestesclimat-server/pull/217))
+- Fix: article html content (NGC-1532) ([#9](https://github.com/incubateur-ademe/nosgestesclimat-cms/pull/9))
+- Release: ([#218](https://github.com/incubateur-ademe/nosgestesclimat-server/pull/218))
+- Review: ([#808](https://github.com/incubateur-ademe/nosgestesclimat-site-nextjs/pull/808))
+- Review: ([#809](https://github.com/incubateur-ademe/nosgestesclimat-site-nextjs/pull/809))
+- Review: ([#805](https://github.com/incubateur-ademe/nosgestesclimat-site-nextjs/pull/805))
+- Review: ([#803](https://github.com/incubateur-ademe/nosgestesclimat-site-nextjs/pull/803))
+
+### Week 03
+
+#### 2025-01-13 Monday
+
+- Feat: use server mainNewsletter route (NGC-1498) ([#810](https://github.com/incubateur-ademe/nosgestesclimat-site-nextjs/pull/810))
+- Feat: change and update user logic (NGC-1442) ([#221](https://github.com/incubateur-ademe/nosgestesclimat-server/pull/221))
+- Review: ([#799](https://github.com/incubateur-ademe/nosgestesclimat-site-nextjs/pull/799))
+- Review: ([#811](https://github.com/incubateur-ademe/nosgestesclimat-site-nextjs/pull/811))
+
+#### 2025-01-14 Tuesday
+
+Offsite
+
+#### 2025-01-15 Wednesday
+
+Offsite
+
+### Week 04
+
+#### 2025-01-20 Monday
+
+- Feat: map situation (NGC-1531) ([#223](https://github.com/incubateur-ademe/nosgestesclimat-server/pull/223))
+- Fix: make simulations public again (NGC-1551) ([#222](https://github.com/incubateur-ademe/nosgestesclimat-server/pull/222))
+- Feat: articles creation migration (NGC-1555) ([#10](https://github.com/incubateur-ademe/nosgestesclimat-cms/pull/10))
+- Release: ([#225](https://github.com/incubateur-ademe/nosgestesclimat-server/pull/225))
+- Review: ([#789](https://github.com/incubateur-ademe/nosgestesclimat-site-nextjs/pull/789))
+
+#### 2025-01-21 Tuesday
+
+- Feat: add model in simulations (NGC-1166) ([#226](https://github.com/incubateur-ademe/nosgestesclimat-server/pull/226))
+- Chore: setup sentry (NGC-1564) ([#227](https://github.com/incubateur-ademe/nosgestesclimat-server/pull/227))
+- Review: ([#807](https://github.com/incubateur-ademe/nosgestesclimat-site-nextjs/pull/807))
+- Review: ([#815](https://github.com/incubateur-ademe/nosgestesclimat-site-nextjs/pull/815))
+- Review: ([#816](https://github.com/incubateur-ademe/nosgestesclimat-site-nextjs/pull/816))
+- Review: ([#818](https://github.com/incubateur-ademe/nosgestesclimat-site-nextjs/pull/818))
+
+### Week 05
+
+#### 2025-01-27 Monday
+
+- Chore: organisations redirection (NGC-1523) ([#826](https://github.com/incubateur-ademe/nosgestesclimat-site-nextjs/pull/826))
+- Chore: bump model version ([#230](https://github.com/incubateur-ademe/nosgestesclimat-server/pull/230))
+- Chore: node version ([#229](https://github.com/incubateur-ademe/nosgestesclimat-server/pull/229))
+- Fix: sentry issue (NGC-1581) ([#228](https://github.com/incubateur-ademe/nosgestesclimat-server/pull/228))
+- Fix: scaleway aws publish ([#2493](https://github.com/incubateur-ademe/nosgestesclimat/pull/2493))
+- Review: ([#824](https://github.com/incubateur-ademe/nosgestesclimat-site-nextjs/pull/824))
+- Review: ([#823](https://github.com/incubateur-ademe/nosgestesclimat-site-nextjs/pull/823))
+
+#### 2025-01-28 Tuesday
+
+- Refactor: remove mongodb and socket.io (NGC-1523) ([#233](https://github.com/incubateur-ademe/nosgestesclimat-server/pull/233))
+- Feat: organisation type default value (NGC-1515) ([#232](https://github.com/incubateur-ademe/nosgestesclimat-server/pull/232))
+- Release: ([#234](https://github.com/incubateur-ademe/nosgestesclimat-server/pull/234))
+- Review: ([#827](https://github.com/incubateur-ademe/nosgestesclimat-site-nextjs/pull/827))
+- Review: ([#2495](https://github.com/incubateur-ademe/nosgestesclimat/pull/2495))
