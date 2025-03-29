@@ -551,3 +551,97 @@ Offsite
 - Fix: stop trusting userId for administrators (NGC-1654) ([#246](https://github.com/incubateur-ademe/nosgestesclimat-server/pull/246))
 - Release: ([#248](https://github.com/incubateur-ademe/nosgestesclimat-server/pull/248))
 - Review: ([#840](https://github.com/incubateur-ademe/nosgestesclimat-site-nextjs/pull/840))
+
+# 2025 March
+
+### Week 10
+
+#### 2025-03-03 Monday
+
+- Chore: nextjs buildpack ([#176](https://github.com/Scalingo/nodejs-buildpack/pull/176))
+- Review: ([#865](https://github.com/incubateur-ademe/nosgestesclimat-site-nextjs/pull/865))
+- Review: ([#866](https://github.com/incubateur-ademe/nosgestesclimat-site-nextjs/pull/866))
+- Review: ([#2505](https://github.com/incubateur-ademe/nosgestesclimat/pull/2505))
+
+#### 2025-03-04 Tuesday
+
+- Chore: clean dependencies (NGC-1656) ([#868](https://github.com/incubateur-ademe/nosgestesclimat-site-nextjs/pull/868))
+- Feat: handle asynchronous events (NGC-1621) ([#249](https://github.com/incubateur-ademe/nosgestesclimat-server/pull/249))
+- Review: ([#856](https://github.com/incubateur-ademe/nosgestesclimat-site-nextjs/pull/856))
+
+### Week 11
+
+#### 2025-03-10 Monday
+
+- Feat: funfacts worker (NGC-1724) ([#254](https://github.com/incubateur-ademe/nosgestesclimat-server/pull/254))
+- Chore: improve logs (NGC-1731) ([#253](https://github.com/incubateur-ademe/nosgestesclimat-server/pull/253))
+- Chore: bump model version (NGC-1730) ([#251](https://github.com/incubateur-ademe/nosgestesclimat-server/pull/251))
+- Fix: send email twice (NGC-1625) ([#250](https://github.com/incubateur-ademe/nosgestesclimat-server/pull/250))
+- Release: ([#252](https://github.com/incubateur-ademe/nosgestesclimat-server/pull/252))
+
+#### 2025-03-11 Tuesday
+
+- Chore: cleanup public images (NGC-1725) ([#876](https://github.com/incubateur-ademe/nosgestesclimat-site-nextjs/pull/876))
+- Chore: scalingo cors configuration (NGC-1656) ([#255](https://github.com/incubateur-ademe/nosgestesclimat-server/pull/255))
+- Review: ([#862](https://github.com/incubateur-ademe/nosgestesclimat-site-nextjs/pull/862))
+- Review: ([#873](https://github.com/incubateur-ademe/nosgestesclimat-site-nextjs/pull/873))
+- Review: ([#874](https://github.com/incubateur-ademe/nosgestesclimat-site-nextjs/pull/874))
+- Review: ([#875](https://github.com/incubateur-ademe/nosgestesclimat-site-nextjs/pull/875))
+
+#### 2025-03-12 Wednesday
+
+- Feat: ip in logs (NGC-1656) ([#256](https://github.com/incubateur-ademe/nosgestesclimat-server/pull/256))
+- Feat: import geoip data (NGC-1726) ([#257](https://github.com/incubateur-ademe/nosgestesclimat-server/pull/257))
+
+### Week 12
+
+#### 2025-03-17 Monday
+
+- Feat: geolocation endpoint (NGC-1726) ([#259](https://github.com/incubateur-ademe/nosgestesclimat-server/pull/259))
+- Chore: flaky tests ([#258](https://github.com/incubateur-ademe/nosgestesclimat-server/pull/258))
+- Release: ([#877](https://github.com/incubateur-ademe/nosgestesclimat-site-nextjs/pull/877))
+
+#### 2025-03-18 Tuesday
+
+- Fix: re link custom questions and answers ([#879](https://github.com/incubateur-ademe/nosgestesclimat-site-nextjs/pull/879))
+- Feat: deploy on scalingo (NGC-1656) ([#880](https://github.com/incubateur-ademe/nosgestesclimat-site-nextjs/pull/880))
+- Review: ([#864](https://github.com/incubateur-ademe/nosgestesclimat-site-nextjs/pull/864))
+- Review: ([#878](https://github.com/incubateur-ademe/nosgestesclimat-site-nextjs/pull/878))
+
+### Week 13
+
+#### 2025-03-24 Monday
+
+Offsite
+
+- Feat: banner ([#12](https://github.com/incubateur-ademe/nosgestesclimat-cms/pull/12))
+- Fix: draft / publish banner conflict ([#13](https://github.com/incubateur-ademe/nosgestesclimat-cms/pull/13))
+- Release: ([#260](https://github.com/incubateur-ademe/nosgestesclimat-server/pull/260))
+- Review: ([#882](https://github.com/incubateur-ademe/nosgestesclimat-site-nextjs/pull/882))
+
+#### 2025-03-25 Tuesday
+
+Offsite
+
+- Review: ([#894](https://github.com/incubateur-ademe/nosgestesclimat-site-nextjs/pull/894))
+
+#### 2025-03-26 Wednesday
+
+- Fix: next images requests ([#898](https://github.com/incubateur-ademe/nosgestesclimat-site-nextjs/pull/898))
+- Release: ([#261](https://github.com/incubateur-ademe/nosgestesclimat-server/pull/261))
+- Review: ([#887](https://github.com/incubateur-ademe/nosgestesclimat-site-nextjs/pull/887))
+- Review: ([#889](https://github.com/incubateur-ademe/nosgestesclimat-site-nextjs/pull/889))
+- Review: ([#890](https://github.com/incubateur-ademe/nosgestesclimat-site-nextjs/pull/890))
+- Review: ([#891](https://github.com/incubateur-ademe/nosgestesclimat-site-nextjs/pull/891))
+- Review: ([#892](https://github.com/incubateur-ademe/nosgestesclimat-site-nextjs/pull/892))
+
+### Week 14
+
+#### 2025-03-31 Monday
+
+- Feat: scalingo review apps (NGC-1781) ([#904](https://github.com/incubateur-ademe/nosgestesclimat-site-nextjs/pull/904))
+- Feat: populate fun facts (NGC-1784) ([#264](https://github.com/incubateur-ademe/nosgestesclimat-server/pull/264))
+- Fix: return less data on poll simulations (NGC-1783) ([#262](https://github.com/incubateur-ademe/nosgestesclimat-server/pull/262))
+- Release: ([#263](https://github.com/incubateur-ademe/nosgestesclimat-server/pull/263))
+- Review: ([#899](https://github.com/incubateur-ademe/nosgestesclimat-site-nextjs/pull/899))
+- Review: ([#905](https://github.com/incubateur-ademe/nosgestesclimat-site-nextjs/pull/905))
