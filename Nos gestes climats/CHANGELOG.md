@@ -497,3 +497,57 @@ Offsite
 - Release: ([#234](https://github.com/incubateur-ademe/nosgestesclimat-server/pull/234))
 - Review: ([#827](https://github.com/incubateur-ademe/nosgestesclimat-site-nextjs/pull/827))
 - Review: ([#2495](https://github.com/incubateur-ademe/nosgestesclimat/pull/2495))
+
+# 2025 February
+
+### Week 06
+
+#### 2025-02-03 Monday
+
+- Feat: public simulations ([#235](https://github.com/incubateur-ademe/nosgestesclimat-server/pull/235))
+- Fix: user settings ([#236](https://github.com/incubateur-ademe/nosgestesclimat-server/pull/236))
+- Review: ([#831](https://github.com/incubateur-ademe/nosgestesclimat-site-nextjs/pull/831))
+
+#### 2025-02-04 Tuesday
+
+- Refactor: forgotten files ([#238](https://github.com/incubateur-ademe/nosgestesclimat-server/pull/238))
+- Release: ([#237](https://github.com/incubateur-ademe/nosgestesclimat-server/pull/237))
+- Review: ([#836](https://github.com/incubateur-ademe/nosgestesclimat-site-nextjs/pull/836))
+
+#### 2025-02-05 Wednesday
+
+- Fix: polls and cms client ([#838](https://github.com/incubateur-ademe/nosgestesclimat-site-nextjs/pull/838))
+- Fix: polls settings ([#240](https://github.com/incubateur-ademe/nosgestesclimat-server/pull/240))
+- Feat: remove partner-\* prefixes (NGC-1620) ([#239](https://github.com/incubateur-ademe/nosgestesclimat-server/pull/239))
+- Release: ([#241](https://github.com/incubateur-ademe/nosgestesclimat-server/pull/241))
+
+### Week 07
+
+#### 2025-02-10 Monday
+
+- Refactor: ugly funfacts code ([#242](https://github.com/incubateur-ademe/nosgestesclimat-server/pull/242))
+- Fix: averageOfElectricityConsumption fun fact ([#2500](https://github.com/incubateur-ademe/nosgestesclimat/pull/2500))
+- Release: ([#243](https://github.com/incubateur-ademe/nosgestesclimat-server/pull/243))
+- Release: ([#2501](https://github.com/incubateur-ademe/nosgestesclimat/pull/2501))
+- Review: ([#2498](https://github.com/incubateur-ademe/nosgestesclimat/pull/2498))
+- Review: ([#822](https://github.com/incubateur-ademe/nosgestesclimat-site-nextjs/pull/822))
+- Review: ([#842](https://github.com/incubateur-ademe/nosgestesclimat-site-nextjs/pull/842))
+- Review: ([#844](https://github.com/incubateur-ademe/nosgestesclimat-site-nextjs/pull/844))
+- Review: ([#846](https://github.com/incubateur-ademe/nosgestesclimat-site-nextjs/pull/846))
+
+#### 2025-02-11 Tuesday
+
+- Fix: public polls (NGC-1642) ([#244](https://github.com/incubateur-ademe/nosgestesclimat-server/pull/244))
+- Fix: remove mongo image (NGC-1523) ([#245](https://github.com/incubateur-ademe/nosgestesclimat-server/pull/245))
+- Review: ([#847](https://github.com/incubateur-ademe/nosgestesclimat-site-nextjs/pull/847))
+- Review: ([#821](https://github.com/incubateur-ademe/nosgestesclimat-site-nextjs/pull/821))
+
+### Week 08
+
+#### 2025-02-17 Monday
+
+- Fix: display back poll admin section (NGC-1654) ([#857](https://github.com/incubateur-ademe/nosgestesclimat-site-nextjs/pull/857))
+- Feat: change case query param (NGC-1659) ([#247](https://github.com/incubateur-ademe/nosgestesclimat-server/pull/247))
+- Fix: stop trusting userId for administrators (NGC-1654) ([#246](https://github.com/incubateur-ademe/nosgestesclimat-server/pull/246))
+- Release: ([#248](https://github.com/incubateur-ademe/nosgestesclimat-server/pull/248))
+- Review: ([#840](https://github.com/incubateur-ademe/nosgestesclimat-site-nextjs/pull/840))
