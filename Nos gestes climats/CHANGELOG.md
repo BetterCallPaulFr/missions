@@ -645,3 +645,102 @@ Offsite
 - Release: ([#263](https://github.com/incubateur-ademe/nosgestesclimat-server/pull/263))
 - Review: ([#899](https://github.com/incubateur-ademe/nosgestesclimat-site-nextjs/pull/899))
 - Review: ([#905](https://github.com/incubateur-ademe/nosgestesclimat-site-nextjs/pull/905))
+
+# 2025 April
+
+#### 2025-04-01 Tuesday
+
+- Release: ([#265](https://github.com/incubateur-ademe/nosgestesclimat-server/pull/265))
+- Review: ([#888](https://github.com/incubateur-ademe/nosgestesclimat-site-nextjs/pull/888))
+- Review: ([#902](https://github.com/incubateur-ademe/nosgestesclimat-site-nextjs/pull/902))
+- Review: ([#906](https://github.com/incubateur-ademe/nosgestesclimat-site-nextjs/pull/906))
+- Review: ([#907](https://github.com/incubateur-ademe/nosgestesclimat-site-nextjs/pull/907))
+
+### Week 15
+
+#### 2025-04-07 Monday
+
+- Refactor: transactions ([#266](https://github.com/incubateur-ademe/nosgestesclimat-server/pull/266))
+- Review: ([#908](https://github.com/incubateur-ademe/nosgestesclimat-site-nextjs/pull/908))
+- Review: ([#915](https://github.com/incubateur-ademe/nosgestesclimat-site-nextjs/pull/915))
+- Review: ([#919](https://github.com/incubateur-ademe/nosgestesclimat-site-nextjs/pull/919))
+- Review: ([#14](https://github.com/incubateur-ademe/nosgestesclimat-cms/pull/14))
+
+#### 2025-04-08 Tuesday
+
+- Feat: update user newsletters (NGC-1727) ([#267](https://github.com/incubateur-ademe/nosgestesclimat-server/pull/267))
+- Refactor: generic getCommonMetadata (NGC-1740) ([#922](https://github.com/incubateur-ademe/nosgestesclimat-site-nextjs/pull/922))
+- Review: ([#886](https://github.com/incubateur-ademe/nosgestesclimat-site-nextjs/pull/886))
+- Review: ([#888](https://github.com/incubateur-ademe/nosgestesclimat-site-nextjs/pull/888))
+- Review: ([#924](https://github.com/incubateur-ademe/nosgestesclimat-site-nextjs/pull/924))
+
+#### 2025-04-09 Wednesday
+
+- Review: ([#15](https://github.com/incubateur-ademe/nosgestesclimat-cms/pull/15))
+- Review: ([#926](https://github.com/incubateur-ademe/nosgestesclimat-site-nextjs/pull/926))
+
+### Week 16
+
+#### 2025-04-14 Monday
+
+- Feat: partners endpoint (NGC-1840) ([#268](https://github.com/incubateur-ademe/nosgestesclimat-server/pull/268))
+- Feat: cms images accessibility ([#16](https://github.com/incubateur-ademe/nosgestesclimat-cms/pull/16))
+- Review: ([#910](https://github.com/incubateur-ademe/nosgestesclimat-site-nextjs/pull/910))
+- Review: ([#914](https://github.com/incubateur-ademe/nosgestesclimat-site-nextjs/pull/914))
+- Review: ([#920](https://github.com/incubateur-ademe/nosgestesclimat-site-nextjs/pull/920))
+- Review: ([#921](https://github.com/incubateur-ademe/nosgestesclimat-site-nextjs/pull/921))
+- Review: ([#925](https://github.com/incubateur-ademe/nosgestesclimat-site-nextjs/pull/925))
+- Review: ([#931](https://github.com/incubateur-ademe/nosgestesclimat-site-nextjs/pull/931))
+- Review: ([#932](https://github.com/incubateur-ademe/nosgestesclimat-site-nextjs/pull/932))
+- Review: ([#933](https://github.com/incubateur-ademe/nosgestesclimat-site-nextjs/pull/933))
+
+#### 2025-04-15 Tuesday
+
+- Feat: newsletter confirmation (NGC-1727) ([#269](https://github.com/incubateur-ademe/nosgestesclimat-server/pull/269))
+
+### Week 17
+
+#### 2025-04-22 Tuesday
+
+- Fix: Image caption could be null (NGC-1855) ([#17](https://github.com/incubateur-ademe/nosgestesclimat-cms/pull/17))
+- Release: ([#270](https://github.com/incubateur-ademe/nosgestesclimat-server/pull/270))
+- Fix: Remove transactions on fetch requests ([563a789](https://github.com/incubateur-ademe/nosgestesclimat-server/commit/563a7893bfed0b57e06f78dbcdec749f84823da6))
+- Release: ([#271](https://github.com/incubateur-ademe/nosgestesclimat-server/pull/271))
+- Fix: Stop returning all polls simulations ([85d158d](https://github.com/incubateur-ademe/nosgestesclimat-server/commit/85d158d4c88d4ab4eae0bf902e717a1a369e8bb1))
+- Release: ([#272](https://github.com/incubateur-ademe/nosgestesclimat-server/pull/272))
+- Fix: No transaction in worker ([1305882](https://github.com/incubateur-ademe/nosgestesclimat-server/commit/1305882d074e6d39ae13c313ba29c0e49413e0e3))
+- Release: ([#273](https://github.com/incubateur-ademe/nosgestesclimat-server/pull/273))
+- Review: ([#937](https://github.com/incubateur-ademe/nosgestesclimat-site-nextjs/pull/937))
+- Review: ([#938](https://github.com/incubateur-ademe/nosgestesclimat-site-nextjs/pull/938))
+- Review: ([#939](https://github.com/incubateur-ademe/nosgestesclimat-site-nextjs/pull/939))
+- Review: ([#942](https://github.com/incubateur-ademe/nosgestesclimat-site-nextjs/pull/942))
+- Review: ([#944](https://github.com/incubateur-ademe/nosgestesclimat-site-nextjs/pull/944))
+
+#### 2025-04-23 Wednesday
+
+- Fix: Funfacts worker loop ([#274](https://github.com/incubateur-ademe/nosgestesclimat-server/pull/274))
+- Release: ([#275](https://github.com/incubateur-ademe/nosgestesclimat-server/pull/275))
+- Fix: Remove user deduplication transaction ([c200fdc](https://github.com/incubateur-ademe/nosgestesclimat-server/commit/c200fdc7817b8b85e75074143a2bedbd5a03dd1c))
+- Release: ([#276](https://github.com/incubateur-ademe/nosgestesclimat-server/pull/276))
+- Fix: Various fixes for performance issues ([#277](https://github.com/incubateur-ademe/nosgestesclimat-server/pull/277))
+- Release: ([#278](https://github.com/incubateur-ademe/nosgestesclimat-server/pull/278))
+- Fix: Worker polls redis cache ([#279](https://github.com/incubateur-ademe/nosgestesclimat-server/pull/279))
+- Release: ([#280](https://github.com/incubateur-ademe/nosgestesclimat-server/pull/280))
+- Fix: change slow query ([788797c](https://github.com/incubateur-ademe/nosgestesclimat-server/commit/788797c43aa3f0a56d7e2cecbcf87cd1d97a51d7))
+- Release: ([#281](https://github.com/incubateur-ademe/nosgestesclimat-server/pull/281))
+
+### Week 18
+
+#### 2025-04-28 Monday
+
+- Feat: update user email (NGC-1827) ([#282](https://github.com/incubateur-ademe/nosgestesclimat-server/pull/282))
+- Fix: rate limiting middleware ([#283](https://github.com/incubateur-ademe/nosgestesclimat-server/pull/283))
+- Release: ([#284](https://github.com/incubateur-ademe/nosgestesclimat-server/pull/284))
+- Review: ([#931](https://github.com/incubateur-ademe/nosgestesclimat-site-nextjs/pull/931))
+- Review: ([#941](https://github.com/incubateur-ademe/nosgestesclimat-site-nextjs/pull/941))
+
+#### 2025-04-29 Tuesday
+
+- Feat: be able to deactivate polls real time stats on big polls (NGC-1892) ([#285](https://github.com/incubateur-ademe/nosgestesclimat-server/pull/285))
+- Feat: two tons changes (NGC-1893) ([#286](https://github.com/incubateur-ademe/nosgestesclimat-server/pull/286))
+- Review: ([#936](https://github.com/incubateur-ademe/nosgestesclimat-site-nextjs/pull/936))
