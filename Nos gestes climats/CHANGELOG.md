@@ -744,3 +744,74 @@ Offsite
 - Feat: be able to deactivate polls real time stats on big polls (NGC-1892) ([#285](https://github.com/incubateur-ademe/nosgestesclimat-server/pull/285))
 - Feat: two tons changes (NGC-1893) ([#286](https://github.com/incubateur-ademe/nosgestesclimat-server/pull/286))
 - Review: ([#936](https://github.com/incubateur-ademe/nosgestesclimat-site-nextjs/pull/936))
+
+# 2025 May
+
+### Week 19
+
+#### 2025-05-05 Monday
+
+- Fix: polls requests memory usage ([#287](https://github.com/incubateur-ademe/nosgestesclimat-server/pull/287))
+- Release: ([#288](https://github.com/incubateur-ademe/nosgestesclimat-server/pull/288))
+
+#### 2025-05-06 Tuesday
+
+- Review: ([#18](https://github.com/incubateur-ademe/nosgestesclimat-cms/pull/18))
+
+#### 2025-05-07 Wednesday
+
+- Refactor: change for secure token (NGC-1912) ([#289](https://github.com/incubateur-ademe/nosgestesclimat-server/pull/289))
+- Review: ([#963](https://github.com/incubateur-ademe/nosgestesclimat-site-nextjs/pull/963))
+
+### Week 20
+
+#### 2025-05-12 Monday
+
+- Fix: cache for brevo newsletters (NGC-1920) ([#290](https://github.com/incubateur-ademe/nosgestesclimat-server/pull/290))
+- Refactor: mute model dynamic import logs ([#964](https://github.com/incubateur-ademe/nosgestesclimat-site-nextjs/pull/964))
+- Review: ([#931](https://github.com/incubateur-ademe/nosgestesclimat-site-nextjs/pull/931))
+- Review: ([#966](https://github.com/incubateur-ademe/nosgestesclimat-site-nextjs/pull/966))
+- Review: ([#965](https://github.com/incubateur-ademe/nosgestesclimat-site-nextjs/pull/965))
+
+#### 2025-05-13 Tuesday
+
+- Feat: import matomo stats (NGC-1779) ([#292](https://github.com/incubateur-ademe/nosgestesclimat-server/pull/292))
+- Release: ([#291](https://github.com/incubateur-ademe/nosgestesclimat-server/pull/291))
+
+### Week 21
+
+#### 2025-05-19 Monday
+
+- Feat: bump model version (NGC-1934) ([#293](https://github.com/incubateur-ademe/nosgestesclimat-server/pull/293))
+- Review: ([#2562](https://github.com/incubateur-ademe/nosgestesclimat/pull/2562))
+- Review: ([#2559](https://github.com/incubateur-ademe/nosgestesclimat/pull/2559))
+- Review: ([#19](https://github.com/incubateur-ademe/nosgestesclimat-cms/pull/19))
+
+#### 2025-05-20 Tuesday
+
+- Release: ([#294](https://github.com/incubateur-ademe/nosgestesclimat-server/pull/294))
+- Review: ([#988](https://github.com/incubateur-ademe/nosgestesclimat-site-nextjs/pull/988))
+
+#### 2025-05-21 Wednesday
+
+- Fix: consider cache alive in case of timeouts (NGC-1920) ([#296](https://github.com/incubateur-ademe/nosgestesclimat-server/pull/296))
+- Feat: campaign excel stats (NGC-1811) ([#295](https://github.com/incubateur-ademe/nosgestesclimat-server/pull/295))
+- Release: ([#297](https://github.com/incubateur-ademe/nosgestesclimat-server/pull/297))
+
+### Week 22
+
+#### 2025-05-26 Monday
+
+- Fix: poll funFacts redis cache ([#298](https://github.com/incubateur-ademe/nosgestesclimat-server/pull/298))
+- Fix: missing quote ([#299](https://github.com/incubateur-ademe/nosgestesclimat-server/pull/299))
+- Fix: add historical actions (NGC-1779) ([#300](https://github.com/incubateur-ademe/nosgestesclimat-server/pull/300))
+- Fix: lifecycles and localization ([#21](https://github.com/incubateur-ademe/nosgestesclimat-cms/pull/21))
+- Release: ([#301](https://github.com/incubateur-ademe/nosgestesclimat-server/pull/301))
+- Review: ([#988](https://github.com/incubateur-ademe/nosgestesclimat-site-nextjs/pull/988))
+- Review: ([#1032](https://github.com/incubateur-ademe/nosgestesclimat-site-nextjs/pull/1032))
+- Review: ([#1041](https://github.com/incubateur-ademe/nosgestesclimat-site-nextjs/pull/1041))
+
+#### 2025-05-27 Tuesday
+
+- Refactor: export excel from server (NGC-1968) ([#1051](https://github.com/incubateur-ademe/nosgestesclimat-site-nextjs/pull/1051))
+- Review: ([#1022](https://github.com/incubateur-ademe/nosgestesclimat-site-nextjs/pull/1022))
