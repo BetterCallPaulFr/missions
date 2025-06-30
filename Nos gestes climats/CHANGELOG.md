@@ -815,3 +815,70 @@ Offsite
 
 - Refactor: export excel from server (NGC-1968) ([#1051](https://github.com/incubateur-ademe/nosgestesclimat-site-nextjs/pull/1051))
 - Review: ([#1022](https://github.com/incubateur-ademe/nosgestesclimat-site-nextjs/pull/1022))
+
+# 2025 June
+
+### Week 23
+
+#### 2025-06-02 Monday
+
+- Fix: textile situation (NGC-1961) ([#302](https://github.com/incubateur-ademe/nosgestesclimat-server/pull/302))
+- Release: ([#303](https://github.com/incubateur-ademe/nosgestesclimat-server/pull/303))
+
+#### 2025-06-03 Tuesday
+
+- Feat: stats cron (NGC-1779) ([#304](https://github.com/incubateur-ademe/nosgestesclimat-server/pull/304))
+- Feat: cms FAQ categories (NGC-1792) ([#22](https://github.com/incubateur-ademe/nosgestesclimat-cms/pull/22))
+- Release: ([#305](https://github.com/incubateur-ademe/nosgestesclimat-server/pull/305))
+
+#### 2025-06-04 Wednesday
+
+ADEME Offsite
+
+### Week 24
+
+#### 2025-06-10 Tuesday
+
+Offsite
+
+#### 2025-06-11 Wednesday
+
+Offsite
+
+- Review: ([#307](https://github.com/incubateur-ademe/nosgestesclimat-server/pull/307))
+
+### Week 25
+
+#### 2025-06-16 Monday
+
+- Fix: legal pages ([#19](https://github.com/incubateur-ademe/legal-pages/pull/19))
+- Fix: marked issue after version bump ([#23](https://github.com/incubateur-ademe/nosgestesclimat-cms/pull/23))
+- Fix: rest countries API changes ([#308](https://github.com/incubateur-ademe/nosgestesclimat-server/pull/308))
+- Review: ([#1087](https://github.com/incubateur-ademe/nosgestesclimat-site-nextjs/pull/1087))
+
+#### 2025-06-17 Tuesday
+
+- Feat: cms question user experience ([#24](https://github.com/incubateur-ademe/nosgestesclimat-cms/pull/24))
+- Chore: bump model version ([#309](https://github.com/incubateur-ademe/nosgestesclimat-server/pull/309))
+
+### Week 26
+
+#### 2025-06-23 Monday
+
+- Feat: store newsletter stats every day (NGC-2045) ([#311](https://github.com/incubateur-ademe/nosgestesclimat-server/pull/311))
+- Release: ([#310](https://github.com/incubateur-ademe/nosgestesclimat-server/pull/310))
+
+#### 2025-06-24 Tuesday
+
+- Feat: database living documentation (NGC-1332) ([#312](https://github.com/incubateur-ademe/nosgestesclimat-server/pull/312))
+- Review: ([#1112](https://github.com/incubateur-ademe/nosgestesclimat-site-nextjs/pull/1112))
+
+### Week 27
+
+#### 2025-06-30 Monday
+
+- Feat: remove northstar ratings (NGC-2063) ([#1125](https://github.com/incubateur-ademe/nosgestesclimat-site-nextjs/pull/1125))
+- Feat: remove list id 35 (NGC-1282) ([#314](https://github.com/incubateur-ademe/nosgestesclimat-server/pull/314))
+- Feat: organisation joined email links (NGC-1984) ([#315](https://github.com/incubateur-ademe/nosgestesclimat-server/pull/315))
+- Release: ([#313](https://github.com/incubateur-ademe/nosgestesclimat-server/pull/313))
+- Review: ([#25](https://github.com/incubateur-ademe/nosgestesclimat-cms/pull/25))
