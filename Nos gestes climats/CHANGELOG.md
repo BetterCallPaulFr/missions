@@ -882,3 +882,45 @@ Offsite
 - Feat: organisation joined email links (NGC-1984) ([#315](https://github.com/incubateur-ademe/nosgestesclimat-server/pull/315))
 - Release: ([#313](https://github.com/incubateur-ademe/nosgestesclimat-server/pull/313))
 - Review: ([#25](https://github.com/incubateur-ademe/nosgestesclimat-cms/pull/25))
+
+# 2025 July
+
+#### 2025-07-01 Tuesday
+
+- Release: ([#316](https://github.com/incubateur-ademe/nosgestesclimat-server/pull/316))
+- Review: ([#1131](https://github.com/incubateur-ademe/nosgestesclimat-site-nextjs/pull/1131))
+
+### Week 30
+
+#### 2025-07-21 Monday
+
+- Feat: dependabot + model (NGC-2173) ([#319](https://github.com/incubateur-ademe/nosgestesclimat-server/pull/319))
+- Feat: remove stats api (NGC-2008) ([#320](https://github.com/incubateur-ademe/nosgestesclimat-server/pull/320))
+- Release: ([#321](https://github.com/incubateur-ademe/nosgestesclimat-server/pull/321))
+- Revert: model (NGC-2173) ([#322](https://github.com/incubateur-ademe/nosgestesclimat-server/pull/322))
+- Release: ([#323](https://github.com/incubateur-ademe/nosgestesclimat-server/pull/323))
+- Refactor: various improvements ([#324](https://github.com/incubateur-ademe/nosgestesclimat-server/pull/324))
+- Review: ([#1189](https://github.com/incubateur-ademe/nosgestesclimat-site-nextjs/pull/1189))
+- Review: ([#1187](https://github.com/incubateur-ademe/nosgestesclimat-site-nextjs/pull/1187))
+
+#### 2025-07-22 Tuesday
+
+- Fix: newsletter confirmation origin (NGC-2180) ([#325](https://github.com/incubateur-ademe/nosgestesclimat-server/pull/325))
+- Feat: api stats route (NGC-2175) ([#326](https://github.com/incubateur-ademe/nosgestesclimat-server/pull/326))
+- Release: ([#327](https://github.com/incubateur-ademe/nosgestesclimat-server/pull/327))
+- Fix: production deployment ([#328](https://github.com/incubateur-ademe/nosgestesclimat-server/pull/328))
+- Release: ([#329](https://github.com/incubateur-ademe/nosgestesclimat-server/pull/329))
+
+### Week 31
+
+#### 2025-07-28 Monday
+
+- Feat: stats cron 3AM => 7AM (NGC-2240) ([#330](https://github.com/incubateur-ademe/nosgestesclimat-server/pull/330))
+- Feat: remove funfacts default values (NGC-2251) ([#331](https://github.com/incubateur-ademe/nosgestesclimat-server/pull/331))
+- Fix: unknown brevo listIds (NGC-2180) ([#332](https://github.com/incubateur-ademe/nosgestesclimat-server/pull/332))
+
+#### 2025-07-29 Tuesday
+
+- Release: ([#333](https://github.com/incubateur-ademe/nosgestesclimat-server/pull/333))
+- Review: ([#334](https://github.com/incubateur-ademe/nosgestesclimat-server/pull/334))
+- Review: ([#1189](https://github.com/incubateur-ademe/nosgestesclimat-site-nextjs/pull/1189))
