@@ -924,3 +924,35 @@ Offsite
 - Release: ([#333](https://github.com/incubateur-ademe/nosgestesclimat-server/pull/333))
 - Review: ([#334](https://github.com/incubateur-ademe/nosgestesclimat-server/pull/334))
 - Review: ([#1189](https://github.com/incubateur-ademe/nosgestesclimat-site-nextjs/pull/1189))
+
+# 2025 August
+
+### Week 34
+
+#### 2025-08-18 Monday
+
+- Feat: non admin cannot delete images (NGC-2280) ([#29](https://github.com/incubateur-ademe/nosgestesclimat-cms/pull/29))
+- Feat: remove old API (NGC-1330) ([#335](https://github.com/incubateur-ademe/nosgestesclimat-server/pull/335))
+- Chore: server update (NGC-2277) ([#336](https://github.com/incubateur-ademe/nosgestesclimat-server/pull/336))
+
+#### 2025-08-19 Tuesday
+
+- Release: ([#337](https://github.com/incubateur-ademe/nosgestesclimat-server/pull/337))
+
+### Week 35
+
+#### 2025-08-25 Monday
+
+- Feat: faq collection ([#30](https://github.com/incubateur-ademe/nosgestesclimat-cms/pull/30))
+- Refactor: cms faq adaptations ([#1235](https://github.com/incubateur-ademe/nosgestesclimat-site-nextjs/pull/1235))
+- Review: ([#1196](https://github.com/incubateur-ademe/nosgestesclimat-site-nextjs/pull/1196))
+- Review: ([#1204](https://github.com/incubateur-ademe/nosgestesclimat-site-nextjs/pull/1204))
+- Review: ([#1236](https://github.com/incubateur-ademe/nosgestesclimat-site-nextjs/pull/1236))
+
+#### 2025-08-26 Tuesday
+
+- Review: ([#1237](https://github.com/incubateur-ademe/nosgestesclimat-site-nextjs/pull/1237))
+- Fix: no formats for svgs (NGC-2276) ([#1237](https://github.com/incubateur-ademe/nosgestesclimat-site-nextjs/pull/1245))
+- Feat: budget stats (NGC-1926) ([#339](https://github.com/incubateur-ademe/nosgestesclimat-server/pull/339))
+- Chore: remove old collections + improve FAQs (NGC-2244) ([#31](https://github.com/incubateur-ademe/nosgestesclimat-cms/pull/31))
+- Release: ([#340](https://github.com/incubateur-ademe/nosgestesclimat-server/pull/340))
