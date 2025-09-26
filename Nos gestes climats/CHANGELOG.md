@@ -956,3 +956,91 @@ Offsite
 - Feat: budget stats (NGC-1926) ([#339](https://github.com/incubateur-ademe/nosgestesclimat-server/pull/339))
 - Chore: remove old collections + improve FAQs (NGC-2244) ([#31](https://github.com/incubateur-ademe/nosgestesclimat-cms/pull/31))
 - Release: ([#340](https://github.com/incubateur-ademe/nosgestesclimat-server/pull/340))
+
+# 2025 September
+
+### Week 36
+
+#### 2025-09-01 Monday
+
+- Review: ([#1250](https://github.com/incubateur-ademe/nosgestesclimat-site-nextjs/pull/1250))
+- Review: ([#1251](https://github.com/incubateur-ademe/nosgestesclimat-site-nextjs/pull/1251))
+- Review: ([#1260](https://github.com/incubateur-ademe/nosgestesclimat-site-nextjs/pull/1260))
+- Review: ([#341](https://github.com/incubateur-ademe/nosgestesclimat-server/pull/341))
+
+#### 2025-09-02 Tuesday
+
+- Fix: CI ([#1267](https://github.com/incubateur-ademe/nosgestesclimat-site-nextjs/pull/1267))
+- Fix: `<p>` around `<figure>` (NGC-2186) ([#33](https://github.com/incubateur-ademe/nosgestesclimat-cms/pull/33))
+- Review: ([#1263](https://github.com/incubateur-ademe/nosgestesclimat-site-nextjs/pull/1263))
+
+### Week 37
+
+#### 2025-09-08 Monday
+
+- Feat: translated emails (NGC-2307) ([#1284](https://github.com/incubateur-ademe/nosgestesclimat-site-nextjs/pull/1284))
+- Fix: send en emails (NGC-2307) ([#344](https://github.com/incubateur-ademe/nosgestesclimat-server/pull/342))
+- Fix: sanitize organisations administrators names (NGC-2309) ([#343](https://github.com/incubateur-ademe/nosgestesclimat-server/pull/343))
+- Fix: deploy ([#344](https://github.com/incubateur-ademe/nosgestesclimat-server/pull/344))
+- Chore: check typings during lint ([#345](https://github.com/incubateur-ademe/nosgestesclimat-server/pull/345))
+- Feat: poll creation email (NGC-2315) ([#346](https://github.com/incubateur-ademe/nosgestesclimat-server/pull/346))
+
+#### 2025-09-09 Tuesday
+
+- Fix: fallback EN for emails (NGC-2307) ([#347](https://github.com/incubateur-ademe/nosgestesclimat-server/pull/347))
+- Fix: correct separator (NGC-2309) ([#349](https://github.com/incubateur-ademe/nosgestesclimat-server/pull/349))
+- Feat: compute polls stats (NGC-2329) ([#351](https://github.com/incubateur-ademe/nosgestesclimat-server/pull/351))
+- Release: ([#350](https://github.com/incubateur-ademe/nosgestesclimat-server/pull/350))
+- Review: ([#1257](https://github.com/incubateur-ademe/nosgestesclimat-site-nextjs/pull/1257))
+
+#### 2025-09-10 Wednesday
+
+- Feat: poll stats typings ([#1291](https://github.com/incubateur-ademe/nosgestesclimat-site-nextjs/pull/1291))
+- Feat: simulation extended situation (NGC-2239) ([#352](https://github.com/incubateur-ademe/nosgestesclimat-server/pull/352))
+- Feat: receive extended situation (NGC-2239) ([#353](https://github.com/incubateur-ademe/nosgestesclimat-server/pull/353))
+- Release: ([#354](https://github.com/incubateur-ademe/nosgestesclimat-server/pull/354))
+- Chore: dev command ([#355](https://github.com/incubateur-ademe/nosgestesclimat-server/pull/355))
+- Feat: poll stats the good way (NGC-2329) ([#357](https://github.com/incubateur-ademe/nosgestesclimat-server/pull/357))
+- Review: ([#356](https://github.com/incubateur-ademe/nosgestesclimat-server/pull/356))
+
+### Week 38
+
+#### 2025-09-15 Monday
+
+- Feat: increase newsletter code expiration ([#358](https://github.com/incubateur-ademe/nosgestesclimat-server/pull/358))
+- Release: ([#359](https://github.com/incubateur-ademe/nosgestesclimat-server/pull/359))
+
+#### 2025-09-16 Tuesday
+
+- Matomo incident investigation
+
+### Week 39
+
+#### 2025-09-22 Monday
+
+- Fix: change poll participation email url ([#362](https://github.com/incubateur-ademe/nosgestesclimat-server/pull/362))
+- Release: ([#359](https://github.com/incubateur-ademe/nosgestesclimat-server/pull/359))
+- Feat: deletion script ([#364](https://github.com/incubateur-ademe/nosgestesclimat-server/pull/364))
+
+#### 2025-09-23 Tuesday
+
+- Fix: no format for svgs again (NGC-2276) ([#1331](https://github.com/incubateur-ademe/nosgestesclimat-site-nextjs/pull/1331))
+- Release: ([#365](https://github.com/incubateur-ademe/nosgestesclimat-server/pull/365))
+
+#### 2025-09-24 Wednesday
+
+- Refactor: extract client part of the root layout ([#1335](https://github.com/incubateur-ademe/nosgestesclimat-site-nextjs/pull/1335))
+- Feat: adapt matomo stats after beta incident ([#366](https://github.com/incubateur-ademe/nosgestesclimat-server/pull/366))
+- Chore: remove simulation useless keys from logs ([#367](https://github.com/incubateur-ademe/nosgestesclimat-server/pull/367))
+
+### Week 40
+
+#### 2025-09-29 Monday
+
+Offsite
+
+#### 2025-09-30 Tuesday
+
+Offsite
+
+- Release: ([#368](https://github.com/incubateur-ademe/nosgestesclimat-server/pull/368))
