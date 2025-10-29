@@ -1044,3 +1044,59 @@ Offsite
 Offsite
 
 - Release: ([#368](https://github.com/incubateur-ademe/nosgestesclimat-server/pull/368))
+
+# 2025 October
+
+### Week 41
+
+#### 2025-10-06 Monday
+
+Interviews
+
+#### 2025-10-07 Tuesday
+
+Interviews
+
+#### 2025-10-08 Wednesday
+
+- Feat: cms image description (NGC-2306) ([#35](https://github.com/incubateur-ademe/nosgestesclimat-cms/pull/35))
+- Feat: image DOM (NGC-2306) ([#36](https://github.com/incubateur-ademe/nosgestesclimat-cms/pull/36))
+- Feat: simulations states (NGC-2457) ([#372](https://github.com/incubateur-ademe/nosgestesclimat-server/pull/372))
+
+### Week 42
+
+#### 2025-10-13 Monday
+
+- Feat: campaign keywords stats detail (NGC-2463) ([#373](https://github.com/incubateur-ademe/nosgestesclimat-server/pull/373))
+- Review: ([#1351](https://github.com/incubateur-ademe/nosgestesclimat-site-nextjs/pull/1351))
+- Review: ([#371](https://github.com/incubateur-ademe/nosgestesclimat-server/pull/371))
+
+#### 2025-10-14 Tuesday
+
+- Feat: signIn / signUp modes (NGC-2541) ([#374](https://github.com/incubateur-ademe/nosgestesclimat-server/pull/374))
+- Fix: empty alt (NGC-2543) ([#37](https://github.com/incubateur-ademe/nosgestesclimat-cms/pull/37))
+
+### Week 43
+
+#### 2025-10-20 Monday
+
+- Feat: `/me` endpoint to know if a user is identified (NGC-2547) ([#378](https://github.com/incubateur-ademe/nosgestesclimat-server/pull/378))
+- Feat: matomo ai agents referrers (NGC-2563) ([#379](https://github.com/incubateur-ademe/nosgestesclimat-server/pull/379))
+- Release: ([#380](https://github.com/incubateur-ademe/nosgestesclimat-server/pull/380))
+
+#### 2025-10-21 Tuesday
+
+- Feat: send welcome email on sign up (NGC-2446) ([#381](https://github.com/incubateur-ademe/nosgestesclimat-server/pull/381))
+- Release: ([#382](https://github.com/incubateur-ademe/nosgestesclimat-server/pull/382))
+- Refactor: group participant simulation relation ([#383](https://github.com/incubateur-ademe/nosgestesclimat-server/pull/383))
+- Release: ([#384](https://github.com/incubateur-ademe/nosgestesclimat-server/pull/384))
+- Review: ([#1363](https://github.com/incubateur-ademe/nosgestesclimat-site-nextjs/pull/1363))
+
+### Week 44
+
+#### 2025-10-29 Monday
+
+- Release: ([#387](https://github.com/incubateur-ademe/nosgestesclimat-server/pull/387))
+- Chore: dependencies update and zod4 validation ([#388](https://github.com/incubateur-ademe/nosgestesclimat-server/pull/388))
+- Review: ([#1363](https://github.com/incubateur-ademe/nosgestesclimat-site-nextjs/pull/1363))
+- Review: ([#1402](https://github.com/incubateur-ademe/nosgestesclimat-site-nextjs/pull/1402))
