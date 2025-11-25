@@ -1105,3 +1105,60 @@ Interviews
 
 - Feature: authenticate & send welcome email on simulation creation (NGC-2429) ([#389](https://github.com/incubateur-ademe/nosgestesclimat-server/pull/389))
 - Review: ([#1405](https://github.com/incubateur-ademe/nosgestesclimat-site-nextjs/pull/1405))
+
+# 2025 November
+
+### Week 45
+
+#### 2025-11-03 Monday
+
+- Feature: create identified simulation (NGC-2613) ([#390](https://github.com/incubateur-ademe/nosgestesclimat-server/pull/390))
+
+#### 2025-11-04 Tuesday
+
+- Feature: simulations & organisations v1 pagination (NGC-2614) ([#391](https://github.com/incubateur-ademe/nosgestesclimat-server/pull/391))
+- Release: ([#392](https://github.com/incubateur-ademe/nosgestesclimat-server/pull/392))
+
+### Week 46
+
+#### 2025-11-10 Monday
+
+- Feature: fetch authenticated simulations (NGC-2643) ([#394](https://github.com/incubateur-ademe/nosgestesclimat-server/pull/394))
+- Feature: authenticated poll participation (NGC-2647) ([#395](https://github.com/incubateur-ademe/nosgestesclimat-server/pull/395))
+- Review: ([#1443](https://github.com/incubateur-ademe/nosgestesclimat-site-nextjs/pull/1443))
+
+#### 2025-11-12 Wednesday
+
+- Feature: remove ip from logs (NGC-2457) ([#397](https://github.com/incubateur-ademe/nosgestesclimat-server/pull/397))
+- Chore: vitest 4 ([#399](https://github.com/incubateur-ademe/nosgestesclimat-server/pull/399))
+- Chore: respect locale (NGC-2618) ([#400](https://github.com/incubateur-ademe/nosgestesclimat-server/pull/400))
+- Release: ([#401](https://github.com/incubateur-ademe/nosgestesclimat-server/pull/401))
+- Review: ([#398](https://github.com/incubateur-ademe/nosgestesclimat-server/pull/398))
+
+### Week 47
+
+#### 2025-11-17 Monday
+
+- Fix: add missing informations (NGC-2618) ([#404](https://github.com/incubateur-ademe/nosgestesclimat-server/pull/404))
+- Release: ([#405](https://github.com/incubateur-ademe/nosgestesclimat-server/pull/405))
+- Review: ([#1453](https://github.com/incubateur-ademe/nosgestesclimat-site-nextjs/pull/1453))
+
+#### 2025-11-18 Tuesday
+
+- Feature: reset password emails & others (NGC-2670) ([#38](https://github.com/incubateur-ademe/nosgestesclimat-cms/pull/38))
+- Feature: pagination headers (NGC-2614) ([#407](https://github.com/incubateur-ademe/nosgestesclimat-server/pull/407))
+- Release: ([#408](https://github.com/incubateur-ademe/nosgestesclimat-server/pull/408))
+- Review: ([#406](https://github.com/incubateur-ademe/nosgestesclimat-server/pull/406))
+
+### Week 48
+
+#### 2025-11-24 Monday
+
+- Feature: update poll simulations loop (NGC-2714) ([#409](https://github.com/incubateur-ademe/nosgestesclimat-server/pull/409))
+- Chore: README ([#410](https://github.com/incubateur-ademe/nosgestesclimat-server/pull/410))
+
+#### 2025-11-25 Tuesday
+
+- Chore: scalingo 24 ([#411](https://github.com/incubateur-ademe/nosgestesclimat-server/pull/411))
+- Feature: upgrade to use JDK 25 ([#7](https://github.com/betagouv/metabase-scalingo/pull/7))
+- Release: ([#412](https://github.com/incubateur-ademe/nosgestesclimat-server/pull/412))
